@@ -1,3 +1,11 @@
+app.py is Flask stuff
+climate starter is initial data exploration
+
+
+
+
+
+
 # Unit 10 Homework: Surf’s Up
 
 ## Before You Begin
